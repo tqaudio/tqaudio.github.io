@@ -1,1 +1,4 @@
 *_original
+vendor/
+_site/
+.bundle/
