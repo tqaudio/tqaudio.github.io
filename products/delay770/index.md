@@ -91,7 +91,7 @@ Enjoy!
 
 Click the download link in this page, the zip file will be downloaded.
 
-Next, unzip the downloaded file and check the folder contains the correct plugin for each platforms. The Delay770 v0.2.0 supports following types of the plugin:
+Next, unzip the downloaded file and check the folder contains the correct plugin for each platforms. The Delay770 v0.2.0 is distributed as the following types of the plugin:
 
 - Mac
   - (AUv2) `.component`
@@ -122,6 +122,14 @@ Let's fork and start developing your plugin today. For more details, see the [RE
 # Version
 
 Delay770 v0.2.0 (Released 2019-05-01)
+
+# Contact
+
+If you find bugs or unexpected behavior of the plugin, please let me know.
+
+- Email: `Yoshiyuki Koyanagi <moutend@gmail.com>`
+
+Because your email might be filtered as spam, please create the issue if you have a GitHub account.
 
 # LICENSE
 

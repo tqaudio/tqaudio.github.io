@@ -126,6 +126,14 @@ Let's fork and start developing your plugin today. For more details, see the [RE
 
 Karaoke271 v0.2.0 (Released 2019-05-01)
 
+# Contact
+
+If you find bugs or unexpected behavior of the plugin, please let me know.
+
+- Email: `Yoshiyuki Koyanagi <moutend@gmail.com>`
+
+Because your email might be filtered as spam, please create the issue if you have a GitHub account.
+
 # LICENSE
 
 This plugin is licensed under the GPLv3.
